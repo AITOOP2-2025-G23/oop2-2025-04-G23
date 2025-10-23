@@ -14,20 +14,16 @@
 - `mlx_whisper`: Whisperモデルを使用した文字起こし
 - `ffmpeg-python`: FFmpegを使用した音声録音
 
-## 実行手順 (main.pyで実行可能)
+## 実行手順 (lecture04_main.pyで実行可能)
 1. **音声録音**:
    - `ffmpeg-python.py` を実行して音声を録音する
    - 録音した音声ファイルは `recorded_audio.wav` として保存される
 
 2. **音声データの前処理と文字起こし**:
-   - `whisper＿python.py` を実行して音声データを前処理し、文字起こしを行います。
-
-   ```bash
-   python pydub-python.py
-   ```
+   - `whisper＿python.py` を実行して音声データを前処理し、文字起こしを行う
 
 3. **文字起こし結果の保存**:
-   - `save.py` を実行して文字起こし結果を `transcription.txt` に保存します。
+   - `save.py` を実行して文字起こし結果を `transcription.txt` に保存する
 
 
 ## 作成者情報
