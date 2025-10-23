@@ -5,9 +5,9 @@
 oop2-2025-04-GXX/
 ├── README.md
 ├── lecture04_main.py
-├── ffmpeg-python.py
-├── whisper-python.py
-|-- whisper-base-mlx
+├── ffmpeg_python.py
+├── whisper_python.py
+|-- whisper_base-mlx
 ├── save.py
 |-- python-audio-output.wav
 └── tests/
