@@ -43,6 +43,7 @@ oop2-2025-04-G23/
 |-- whisper_base-mlx
 ├── save.py
 |-- python-audio-output.wav
+|-- transcription.txt
 └── tests/
     ├── test_ffmpeg.py
     ├── test_pydub.py
