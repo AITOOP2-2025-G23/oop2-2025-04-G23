@@ -8,7 +8,6 @@ oop2-2025-04-GXX/
 ├── ffmpeg-python.py
 ├── pydub-python.py
 ├── save.py
-├── requirements.txt
 └── tests/
     ├── test_ffmpeg.py
     ├── test_pydub.py
