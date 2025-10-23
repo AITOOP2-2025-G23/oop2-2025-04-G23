@@ -6,7 +6,8 @@ oop2-2025-04-GXX/
 ├── README.md
 ├── lecture04_main.py
 ├── ffmpeg-python.py
-├── pydub-python.py
+├── whisper-python.py
+|-- whisper-base-mlx
 ├── save.py
 └── tests/
     ├── test_ffmpeg.py
