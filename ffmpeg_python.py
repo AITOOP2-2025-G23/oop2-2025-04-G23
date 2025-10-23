@@ -35,3 +35,9 @@ def ffmpeg_python(text: str, output_dir: str = "outputs") -> str:
 
     print(f"文字起こし結果を保存しました: {file_path}")
     return file_path
+
+if __name__ == "__main__":
+    # テスト用の文字起こしテキスト
+    test_text = "これはテスト保存です。"
+    ffmpeg_python(test_text)
+
