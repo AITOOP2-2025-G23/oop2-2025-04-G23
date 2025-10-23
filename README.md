@@ -17,7 +17,7 @@
 ## 実行手順 (lecture04_main.pyで実行可能)
 1. **音声録音**:
    - `ffmpeg-python.py` を実行して音声を録音する
-   - 録音した音声ファイルは `recorded_audio.wav` として保存される
+   - 録音した音声ファイルは `python-audio-output.wav` として保存される
 
 2. **音声データの前処理と文字起こし**:
    - `whisper＿python.py` を実行して音声データを前処理し、文字起こしを行う
