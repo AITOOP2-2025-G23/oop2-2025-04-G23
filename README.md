@@ -4,7 +4,7 @@
 ```
 oop2-2025-04-GXX/
 ├── README.md
-├── main.py
+├── lecture04_main.py
 ├── ffmpeg-python.py
 ├── pydub-python.py
 ├── save.py
